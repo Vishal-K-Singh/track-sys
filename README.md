@@ -1,2 +1,2 @@
 # track-sys
-Research Project to 
+Machine Learning Research Project to track huge moving objects at high speed.
